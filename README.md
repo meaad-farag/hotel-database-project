@@ -79,21 +79,6 @@ WHERE employee.EDID = department.DID;
 
 -----
 
-##  Getting Started
-
-To run this project locally, you will need a running instance of a MySQL server (e.g., via MySQL Workbench, XAMPP, or Docker).
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [Your Repository URL]
-    ```
-2.  **Load the Schema and Data:**
-      * Execute the `CREATE TABLE` and `INSERT` statements (which you would include in a separate `.sql` file, based on the schema and populated tables you showed).
-3.  **Run Queries:**
-      * Execute the example queries (or your more advanced queries) to test the database functionality.
-
------
-
 ##  Prepared By
 
   * Meaad Farag
